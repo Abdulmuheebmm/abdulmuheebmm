@@ -1,4 +1,4 @@
-![MasterHead](https://static.vecteezy.com/system/resources/previews/000/344/502/original/web-development-banner-computer-with-window-a-computer-with-a-browser-window-studying-different-programming-languages-vector-flat-line-ilustration.jpg)
+![MasterHead](https://th.bing.com/th/id/R.75ea38495d3a5bc0c90316b57f9bbfb5?rik=CKmgcCEhXQE1OA&riu=http%3a%2f%2fwww.pramukhdigital.com%2fwp-content%2fuploads%2f2018%2f07%2fNew-PNC-Animated-Banners.gif&ehk=fs6XGSkrODbDz9LuU2tZgUw5aQd76DxwLvAaGpktUZI%3d&risl=&pid=ImgRaw&r=0)
 
 <h1 align="center">Hi 👋, I'm ABDULMUHEEB M</h1>
 <h3 align="center">A passionate frontend developer from India</h3>
@@ -7,7 +7,7 @@
 
 <p align="left"> <a href="https://twitter.com/" target="blank"><img src="https://img.shields.io/twitter/follow/?logo=twitter&style=for-the-badge" alt="" /></a> </p>
 
-- 💬 Ask me about **JAVA HTML JAVASCRIPT CSS HTML**
+- 💬 Ask me about ** HTML CSS JAVASCRIPT JAVA PHP**
 
 - 📫 How to reach me **abdulmuheebmm@gmail.com**
 
